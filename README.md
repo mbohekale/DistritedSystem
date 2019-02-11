@@ -1,2 +1,2 @@
-# DistritedSystem
+# DistrbutedSystems
 Assignments
